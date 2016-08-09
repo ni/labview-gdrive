@@ -38,6 +38,7 @@ There are two examples attached that demonstrate the work flow.
 > Upload example: Demonstrates the steps required to take a file from your local machine and upload it to the user’s google drive.
 
 > Download example: Demonstrates the steps required to take a file from the user’s google drive and download it to your local machine. 
+
 ##Creating a client_secret.json
 Developers can obtain their client secret json file [here](https://console.developers.google.com/flows/enableapi?apiid=drive&pli=1)
 1. Open the wizard and press continue (make sure that the drop down selector says “create a project”)  
