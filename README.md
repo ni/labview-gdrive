@@ -44,10 +44,10 @@ Developers can obtain their client secret json file [here](https://console.devel
 1. Open the wizard and press continue (make sure that the drop down selector says “create a project”)  
 2. On the next page, click “go to credentials”  
 3. You should now see a page titled “Add Credentials to your project”  
-**a. Which API are you using? : Google Drive API  
-**b. Where will you be calling the API from?: Other UI  
-**c. What data will you be using?: User Data  
-**d. Then, click “What credentials do I need?”  
+..a. Which API are you using? : Google Drive API  
+..b. Where will you be calling the API from?: Other UI  
+..c. What data will you be using?: User Data  
+..d. Then, click “What credentials do I need?”  
 4. Create an OAuth 2.0 client ID  
 5. Register your email address  
 6. Product Name: GDrive for LabVIEW  
