@@ -48,6 +48,7 @@ Developers can obtain their client secret json file [here](https://console.devel
 - Where will you be calling the API from?: Other UI  
 - What data will you be using?: User Data  
 - Then, click “What credentials do I need?”  
+
 4. Create an OAuth 2.0 client ID  
 5. Register your email address  
 6. Product Name: GDrive for LabVIEW  
