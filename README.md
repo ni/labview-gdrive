@@ -1,7 +1,7 @@
 # GDrive for LabVIEW
 ##Access your Google Drive files from LabVIEW
 
-This toolkit allows users to directly upload/download files to/from their Google drive. Authentication was completed by the OAuth method documented here.  This toolkit was created as a wrapper for the Google Drive .NET API that can be found online. Developers must obtain their own Client Secret JSON, found here. The Initialize VI requires this file to function, so a user must give a path to their Client Secret JSON for proper toolkit functionality. For more information on how to fill out this form, look to the bottom of this document under “Creating a client_secret.json.”
+This toolkit allows users to directly upload/download files to/from their Google drive. Authentication was completed by the OAuth method documented here.  This toolkit was created as a wrapper for the Google Drive .NET API that can be found online. Developers must obtain their own Client Secret JSON, found [here](https://console.developers.google.com/flows/enableapi?apiid=drive&pli=1). The Initialize VI requires this file to function, so a user must give a path to their Client Secret JSON for proper toolkit functionality. For more information on how to fill out this form, look to the bottom of this document under “Creating a client_secret.json.”
 
 ## Initialize VI
 > This VI will use OAuth to authenticate a user for their Google Drive Account the first time that this VI is called in LabVIEW. After that, this VI does not execute, but it is required for all functionalities of the drive, as it contains the authentication within the Drive Service Reference. 
