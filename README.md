@@ -56,3 +56,5 @@ d. Then, click “What credentials do I need?”
 9. Use this file path in the initialize VI to authenticate your access.  
 10. Note that the first time you run this VI, you will be prompted in a web browser to give permission for the GDrive to access your Google Drive account. Click allow and move forward in your development process.  
 
+#Support
+National Instruments does not provide support for this toolkit. For information, support, or contributions, please use this GitHub page.
