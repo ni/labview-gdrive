@@ -14,6 +14,7 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 # Getting Started
 
 Download the LabVIEW project above. In order to use this code, you will need to download your own client_secret.json file using [this wizard](https://console.developers.google.com/flows/enableapi?apiid=drive&pli=1). Follow the following steps to get the JSON file:
+
 1.  Open the wizard and press continue (make sure that the drop down selector says “create a project”)
 2.  On the next page, click “go to credentials” 
 3.  You should now see a page titled “Add Credentials to your project”
