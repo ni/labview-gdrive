@@ -67,5 +67,5 @@ d.  Then, click “What credentials do I need?”
 
 (taken from [developercertificate.org](http://developercertificate.org/))
 
-See [LICENSE](https://github.com/ni/GDriveforLabVIEW/master/License)
+See [LICENSE](https://github.com/ni/labview-gdrive/blob/master/License)
 for details about how GDrive for LabVIEW is licensed.
